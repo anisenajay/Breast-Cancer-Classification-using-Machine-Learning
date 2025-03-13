@@ -1,0 +1,1 @@
+This project demonstrates how to build a Breast Cancer Classification System using Machine Learning with Python. The system utilizes a Logistic Regression model to classify whether a tumor is benign or malignant based on the provided dataset.
